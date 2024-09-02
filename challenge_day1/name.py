@@ -1,2 +1,2 @@
-my_name = "Scarlett"
-print(my_name)
+def my_name():
+    return "my_name"
