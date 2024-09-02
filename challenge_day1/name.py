@@ -1,2 +1,2 @@
 def my_name():
-    return "Scarlett"
+    return "Scarlett Kim"
