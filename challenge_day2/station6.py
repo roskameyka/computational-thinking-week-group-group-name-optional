@@ -1,1 +1,5 @@
-def solution_station_6
+def calculate_sin(x):
+    return math.sin(x)
+
+x = 60
+y = calculate_sin(x)
