@@ -7,5 +7,3 @@ def solution_station_3(number):
         return True
     else:
         return False
-
-print(solution_station_3(76)) 
