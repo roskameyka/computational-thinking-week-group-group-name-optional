@@ -1,5 +1,5 @@
 from tests import tests
-from station1 import solution_station_1,fibonacci
+from station1 import solution_station_1
 from station2 import solution_station_2
 from station3 import solution_station_3
 from station4 import solution_station_4
