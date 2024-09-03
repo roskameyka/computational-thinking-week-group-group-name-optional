@@ -11,7 +11,7 @@ def fibonacci(n):
         return 0
 
     # if input is 1 or 2, 1 is returned
-    elif n == 1 or n == 2:
+    if n == 1 or n == 2:
         return 1
 
     # in all other cases, recursion is used to find number

@@ -8,4 +8,4 @@ students['name'] = students['name'].apply(lambda x: x.split()[0])
 students['LT'] = students['LT'].apply(lambda x: x.split()[2])
 
 def solution_station_5(name):
-    return students[students['name'] == name]['LT'].values[0]
+    return int(students[students['name'] == name]['LT'].values[0])
