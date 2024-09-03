@@ -5,5 +5,3 @@ def solution_station_7(x):
     d=7
     e=0.5
     return eval(x)
-
-solution_station_7()
