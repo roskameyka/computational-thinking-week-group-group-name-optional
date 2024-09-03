@@ -8,4 +8,4 @@ def solution_station_3(number):
     else:
         return False
 
-print(solution_station_3(8)) 
+print(solution_station_3(76)) 
