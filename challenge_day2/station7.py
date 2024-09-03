@@ -1,10 +1,9 @@
-def solution_station_7():
-    x=input()
+def solution_station_7(x):
     a=3
     b=-1
     c=4
     d=7
     e=0.5
-    print (eval(x))
+    return eval(x)
 
 solution_station_7()
