@@ -34,4 +34,4 @@ def combined_algorithm(observations: tuple) -> int:
 FINAL_OUTPUT1 = combined_algorithm(observation1)
 FINAL_OUTPUT2 = combined_algorithm(observation2)
 FINAL_OUTPUT3 = combined_algorithm(observation3)
-tests.Test_Exercise(combined_algorithm);
+tests.Test_Exercise(combined_algorithm)
