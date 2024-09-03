@@ -1,5 +1,4 @@
 def solution_station_7(x):
-    
     a=3.0
     b=-1.0
     c=4.0
