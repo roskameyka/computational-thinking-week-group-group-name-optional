@@ -1,7 +1,5 @@
 import math
 
-def calculate_sin(x):
+def solution_station_6(x):
     return math.sin(x)
 
-x = 60
-y = calculate_sin(x)
